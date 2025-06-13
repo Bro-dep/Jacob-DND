@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Search",
+      "path": "Rule Book/Search.md"
+    },
+    {
       "basename": "Talon Kingdom",
       "path": "Notes/Session 1/Talon Kingdom.md"
     },
     {
-      "basename": "First mission",
-      "path": "Notes/Session 1/First mission.md"
-    },
-    {
       "basename": "Quests",
       "path": "Notes/Character Stuff/Quests.md"
+    },
+    {
+      "basename": "Character Sheet Drawing",
+      "path": "Notes/Character Stuff/Character Sheet Drawing.md"
+    },
+    {
+      "basename": "First mission",
+      "path": "Notes/Session 1/First mission.md"
     },
     {
       "basename": "Parties Equipment",
@@ -35,14 +43,6 @@
     {
       "basename": "Serge",
       "path": "Notes/Session 1/Serge.md"
-    },
-    {
-      "basename": "Character Sheet Drawing",
-      "path": "Notes/Character Stuff/Character Sheet Drawing.md"
-    },
-    {
-      "basename": "Search",
-      "path": "Rule Book/Search.md"
     },
     {
       "basename": "Introduction",
