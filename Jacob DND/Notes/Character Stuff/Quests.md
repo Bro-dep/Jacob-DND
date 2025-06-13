@@ -1,0 +1,3 @@
+- [[First mission#^250787|Save Queen Miku]]
+	- Reward is 50 Gp upon Accepting and 5000 Pp upon completion.
+	- We were also gifted a Carriage and Horse and free room and board at the Castle.

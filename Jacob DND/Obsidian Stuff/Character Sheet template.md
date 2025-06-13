@@ -1,0 +1,1 @@
+![2024 Character Sheets Dungeons And Dragons Free - Drusie Aurilia](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F00lczac0fc2b1.png&f=1&nofb=1&ipt=f41b6b4e6e577adffe84293ebdbd0bce671a65e52338f05e10c09236945da93b)
